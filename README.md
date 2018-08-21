@@ -1,4 +1,4 @@
 # PortfProject
 Portfolio Page
 
-Portfolio page made with Angula 6.0
+Portfolio page made with Angular 6.0
